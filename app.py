@@ -16,11 +16,11 @@ st.set_page_config(
 
 # ── Google Drive file IDs ──
 DRIVE_IDS = {
-    "vgg19_best.keras":           "1dq7XXW7oxogyTbZ91xpD8qTmgGZXi1lx",
-    "resnet50_best.keras":        "1aDlLwZMATRx_w2YnrWvpXrX8SkB1koUW",
-    "effnet_best.keras":          "1AxIHLjvffDgFwC3mtwN-rAiWRscmQxjm",
-    "resnet50v2_best.keras":      "1PM2vmA08nBoP-a4kOASBlyQmwS5yXFjr",
-    "best_ensemble_weights.json": "1aW_OJgjgIVU87lkGYMT4TqB8fZd9DE83",
+    "vgg19_best.keras":           "1Hj6BCIvCns644XbCbE32UVEC-qHvBANX",
+    "resnet50_best.keras":        "1SM4WbLQpdFmwzmfMRAsZCeyplfGVeNtH",
+    "effnet_best.keras":          "18CfLNxmiuyy9zKdrPp1Gi59D4iRTwC9_",
+    "resnet50v2_best.keras":      "12rYUB2jRAkkv6_JSQxUko6FWQaIIhRif",
+    "best_ensemble_weights.json": "1_puoHMtNOnaWuLrjEQxcIM8mqv5ibfzE",
 }
 
 CLASS_NAMES = ['Normal', 'Osteopenia', 'Osteoporosis']
